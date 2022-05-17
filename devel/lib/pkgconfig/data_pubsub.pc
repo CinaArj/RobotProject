@@ -1,0 +1,8 @@
+prefix=/home/cina/catkin_ws/devel
+
+Name: data_pubsub
+Description: Description of data_pubsub
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
